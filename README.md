@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Engineer
+- 👋 Hi, I’m Ravi, B.Tech Computer Science and Engineer graduated 
 - 👀 I’m interested in Web development Projects.
 - 🌱 I’m currently learning Advance web Development.
 - 💞️ I’m looking to collaborate on Good to take my github channel for Projects.
